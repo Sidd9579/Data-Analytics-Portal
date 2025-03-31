@@ -1,4 +1,5 @@
 📊 Sidd Analytic - Data Analytics Portal
+
 🚀 Overview
 Sidd Analytic is a Streamlit-based web application designed for data exploration and visualization. This tool allows users to upload datasets (CSV or Excel), analyze basic statistics, perform group operations, and generate interactive charts with just a few clicks.
 
